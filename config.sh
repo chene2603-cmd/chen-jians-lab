@@ -1,0 +1,4 @@
+#!/bin/bash
+PROJECT_NAME="ColdAtomDigitalTwin"
+MAX_TIMESTEPS=1000000
+NODE_VERSION="18"
